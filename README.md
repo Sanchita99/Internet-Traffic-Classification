@@ -1,4 +1,4 @@
-# Network-Traffic-Classification
+# Internet-Traffic-Classification
 Uses Neural Net for Classification:-
     -Fully Connected Neural Network (achives accuracy of 96.97%)
     -1D Convolutional Neural Network (achieves accuracy of 98.34%)
