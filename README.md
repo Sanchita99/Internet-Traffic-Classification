@@ -3,7 +3,7 @@ Uses Neural Net for Classification:-
     -Fully Connected Neural Network (achives accuracy of 96.97%)
     -1D Convolutional Neural Network (achieves accuracy of 98.34%)
  
-Dataset: Andrew Moore's Daataset generated in 2005
+Dataset: Andrew Moore's Dataset generated in 2005
 
 Software Requirements :-
     -Anaconda
